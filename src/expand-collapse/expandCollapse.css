@@ -1,0 +1,9 @@
+.exp-col .panel-heading,
+.exp-col .panel-body,
+.exp-col .panel-footer {
+    border-radius: 0;
+}
+
+.exp-col .panel-heading {
+  background: #fff;
+}

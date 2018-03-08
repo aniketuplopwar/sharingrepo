@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+
+.hidden {
+  display: none;
+}
+
+.exp-header {
+  color: red;
+  background-color: black;
+  width: 100%;
+}
